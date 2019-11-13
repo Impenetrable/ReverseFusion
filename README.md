@@ -1,5 +1,5 @@
 # ReverseFusion
-A quick Python3 script to generate Coldfusion reverse powershell *.cfm pages.
+A quick Python3 script to generate Coldfusion reverse powershell *.cfm pages (for owning Windows boxes).
 
 When run it will ask for your IP, your port and a filename to name the cfm page.
 
